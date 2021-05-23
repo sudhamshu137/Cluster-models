@@ -12,3 +12,5 @@ This dataset is then divided into 5 types that are
 This was the result obtained by both the models.
 </br>
 ![Final result](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
+</br>
+![Alt text](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
