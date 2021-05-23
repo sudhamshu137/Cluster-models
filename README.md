@@ -16,4 +16,4 @@ This was the result obtained by both the models.
 ![Alt text](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
 </br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
