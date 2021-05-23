@@ -10,10 +10,5 @@ This dataset is then divided into 5 types that are
 - People with medium income spending in a medium level
 </br>
 This was the result obtained by both the models.
-</br>
-![Final result](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
-</br>
-![Alt text](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
-</br>
 
-![Java](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
+![Final result](https://raw.githubusercontent.com/sudhamshu137/Cluster-models/main/clustering.png)
